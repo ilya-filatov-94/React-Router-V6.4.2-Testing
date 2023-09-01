@@ -6,8 +6,8 @@ using dynamics url for other pages (**useParams**),
 using hook **useNavigate** to navigate browser history,  
 using component **Navigate** for redirect,  
 using hook **useLocation** to determine the path to redirect when hitting a private page without authorization.  
-Create private routes with hocs.  
-using hook **useSearchParams** for search parameters on a page>  
+Creating private routes with hocs.  
+using hook **useSearchParams** for search parameters on a page.  
 As well as testing nested routing, data preloading, error handling and working with a form from the React-Router v6.4.2 library.  
 
 
