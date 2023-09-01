@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100%;
+}
+
+.linkButton {
+    text-decoration: none;
+    display: block;
+    padding: 5px 1rem;
+    background-color: #558CB7;
+    border-radius: 3px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.linkButton:hover {
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.4);
+    color: white;
+}

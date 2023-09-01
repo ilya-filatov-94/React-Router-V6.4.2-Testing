@@ -1,0 +1,31 @@
+.posts {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.15rem;
+    font-weight: normal;
+    text-align: left;
+    padding: 30px 80px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+/* li {
+    list-style: none;
+} */
+
+.buttonLink {
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(23, 160, 210);
+    cursor: pointer;
+}
+

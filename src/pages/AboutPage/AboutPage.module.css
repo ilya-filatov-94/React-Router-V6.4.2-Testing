@@ -1,0 +1,21 @@
+.about {
+    text-align: center;
+    padding: 30px;
+}
+
+.about p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.875rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+ul {
+    margin: 30px 375px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+

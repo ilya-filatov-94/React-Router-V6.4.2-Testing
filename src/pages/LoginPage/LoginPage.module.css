@@ -1,0 +1,22 @@
+.wrapper {
+    margin: 20px auto;
+}
+
+label {
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+.input {
+    padding: 5px 1rem;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid rgba(128, 128, 128, 0.43);
+    border-radius: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+.input:focus {
+    border: 1px solid rgb(128, 128, 128);
+}
