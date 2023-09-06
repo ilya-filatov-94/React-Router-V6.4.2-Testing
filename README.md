@@ -14,8 +14,10 @@ As well as testing nested routing, data preloading, error handling and working w
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/-React-4d4d4d?style=for-the-badge&logo=React&logoColor=00d8ff)
+![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4d4d4d?style=for-the-badge&logo=JavaScript&logoColor=f7dc1c)
-![CSS](https://img.shields.io/badge/-CSS-4d4d4d?style=for-the-badge&logo=CSS3&logoColor=264de4)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![CSS Modules](https://img.shields.io/static/v1?style=for-the-badge&message=CSS+Modules&color=000000&logo=CSS+Modules&logoColor=FFFFFF&label=)
 ![HTML](https://img.shields.io/badge/-HTML-4d4d4d?style=for-the-badge&logo=HTML5&logoColor=e44d26)  
 
 ### Running the finished code
